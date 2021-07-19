@@ -1,7 +1,10 @@
 2.	name: JS Actions
-
-6.	on: [push]
-7.	
+3.	
+4.	
+5.	
+6.	on: 
+        push:
+        
 8.	
 9.	
 10.	jobs:
